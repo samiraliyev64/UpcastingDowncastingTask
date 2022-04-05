@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.exe
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.deps.json
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.json
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.dev.json
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\HP\source\repos\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.genruntimeconfig.cache
